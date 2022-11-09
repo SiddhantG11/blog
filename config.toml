@@ -2,3 +2,49 @@ baseURL = 'http://siddhantg11.github.io/blog/'
 languageCode = 'en-us'
 title = 'Siddhant Gupta'
 theme = 'LoveIt'
+
+[author]
+  name = "Siddhant Gupta"
+
+[menu]
+
+  [[menu.main]]
+  weight = 1
+  identifier = "about"
+  pre = "<i class='fas fa-user'></i>"
+  name = "About"
+  url = "/about/"
+
+  [[menu.main]]
+  weight = 2
+  identifier = "posts"
+  pre = "<i class='fas fa-book'></i>"
+  name = "Posts"
+  url = "/posts/"
+
+  [[menu.main]]
+  weight = 3
+  identifier = "book notes"
+  pre = "<i class='fas fa-book'></i>"
+  name = "Book Notes"
+  url = "/book-notes/"
+  
+  [[menu.main]]
+  weight = 4
+  identifier = "now"
+  name = "What I'm Doing Now"
+  url = "/now/"
+
+[params.header]
+  typeit = true
+
+[params.footer]
+  enable = true
+  custom = 'My epic footer'
+  hugo = false
+
+[params.header.title]
+  name = "Siddhant Gupta"
+
+[params.home.profile]
+  subtitle = "Need to figure out my subtitle"
