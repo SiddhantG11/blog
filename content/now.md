@@ -5,7 +5,7 @@ draft: false
 ---
 # What I'm Doing Now 
 
-I'm Currently living in a quiet life in a small town in Northern India. This is what I spend my time doing: 
+I'm currently living in a quiet life in a small town in Northern India. This is what I spend my time doing: 
 
 
 1. Finishing Master's degree in CS and Analytics 

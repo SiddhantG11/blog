@@ -1,4 +1,4 @@
-baseURL = 'http://siddhantg11.github.io/blog/'
+baseURL = 'https://siddhantg.com/'
 languageCode = 'en-us'
 title = 'Siddhant Gupta'
 theme = 'LoveIt'
